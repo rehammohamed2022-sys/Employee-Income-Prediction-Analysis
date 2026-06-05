@@ -196,14 +196,5 @@ Predictors included:
 
 Statistics, HR Analytics, Employee Compensation, Salary Prediction, Multiple Linear Regression, Stepwise Regression, Decision Trees, Predictive Modeling, Machine Learning, Workforce Analytics, Data Science, R Programming
 
----
-
-## Author
-
-Reham Mohamed
-
-B.Sc. Statistics
-
-Faculty of Economics and Political Science
 
 Cairo University
